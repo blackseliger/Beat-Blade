@@ -1,4 +1,5 @@
-# Название проект
+# Beat Blade
+[![Build status](https://ci.appveyor.com/api/projects/status/rmy4stjbfd3lbnfn?svg=true)](https://ci.appveyor.com/project/blackseliger/beat-blade)
 
 **Important!**
 
@@ -6,9 +7,6 @@
 
 * nodejs >=16.13.1
 * npm >= 7.10.0
-
-
-Собранный в условиях прохождения учебы конфигурированный проект использующийся в качестве образца.
 
 
 ## Preview
