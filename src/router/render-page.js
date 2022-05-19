@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 export default async function(path, match) {
   const main = document.querySelector('main');
 
