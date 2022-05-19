@@ -1,6 +1,6 @@
 import Router from './router/index.js';
 
-
+console.log('gdhkjghdkh')
 const router = Router.instance();
 
 router
