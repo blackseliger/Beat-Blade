@@ -21,7 +21,7 @@ export default class Page {
         this.element = element.firstElementChild;
 
         this.subElements = this.getSubElements();
-        
+        console.log('gdhkjhdgkj')
         this.initComponents();
         this.renderComponents();
         this.initEventListeners();
