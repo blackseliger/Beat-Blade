@@ -127,7 +127,7 @@ export default class BeatBlade {
             return index === 0 ?
                 `<div class="beadBlade__cell" data-element="${index}">
                     <div class="beadBlade__img beadBlade__img-hidden" data-element="goblin">
-                        <img src="goblin.png" alt="goblin" class="beadBlade__goblin">
+                        <img src="./goblin.png" alt="goblin" class="beadBlade__goblin">
                     </div>
                  </div>` :
                 `<div class="beadBlade__cell" data-element="${index}"></div>`
