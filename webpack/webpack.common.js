@@ -18,10 +18,10 @@ module.exports = {
     styles: path.join(__dirname, '../src/styles/all.css')
   },
   output: {
-    publicPath: "/",
     filename: '[name].bundle.js',
-    path: path.resolve(__dirname, '../build'),
-    chunkFilename: '[name]-[id].js'
+    path: path.resolve(__dirname, 'build'),
+    chunkFilename: '[name]-[id].js',
+    publicPath: '',
   },
   module: {
     rules: [
